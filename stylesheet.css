@@ -138,3 +138,7 @@ img {
   width: auto;
   height: auto;
 }
+
+.profile_img {
+  border-radius: 50%;
+}
